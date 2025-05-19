@@ -1,7 +1,7 @@
-# Личный проект «{{projectTitle}}»
+# Личный проект «{{kekstagramm}}»
 
-* Студент: [{{userName}}]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Студент: [{{Aleksandr}}]({{userProfile}}).
+
 
 ---
 
